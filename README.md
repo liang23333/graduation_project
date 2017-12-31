@@ -1,15 +1,20 @@
+## Preview
 
 My graduation project is edge detection. My basic task is to understand and build rcf. Finally improve it.
 
-rcf
-paper: https://arxiv.org/abs/1612.02103
-code: https://github.com/yun-liu/rcf
-rcf is based on hed.
-hed 
-paper: https://arxiv.org/abs/1504.06375
-code: https://github.com/s9xie/hed
+## Background
 
-a pycaffe code for hed and rcf : https://github.com/zeakey/hed
+### rcf
+      paper: https://arxiv.org/abs/1612.02103 
+      code: https://github.com/yun-liu/rcf   
+   
+#### rcf is based on hed.
+
+### hed 
+      paper: https://arxiv.org/abs/1504.06375 
+      code: https://github.com/s9xie/hed      
+
+#### a pycaffe code for hed and rcf : https://github.com/zeakey/hed
 
 2017/12/30
 
